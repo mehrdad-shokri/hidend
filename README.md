@@ -1,6 +1,6 @@
 # Hidend
 
-Hidend is a multitool for finding website backend ips.
+Hidend is a simple multitool for finding website backend ips. Hidend can be used to peform ip history checks, subdomain scans, http response checks, favicon hash matching with shodan and censys SSL certificate matching.
 
 # Install
 
@@ -48,7 +48,7 @@ python3 hidend.py
   censys search query, which allows you to see if your configuration is 
   exposing the SSL certificate when directly connecting to your IP.
   
-5: 
+5:
   Http Response Checker: This option will send a request to given URL
   and print the response for you to look at. The response might contain
   all kinds of useful information for finding the website backend like
