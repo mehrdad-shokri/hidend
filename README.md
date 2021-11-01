@@ -1,7 +1,7 @@
 # Hidend
 ![Alt text](https://i.imgur.com/Q87FBUS.png "Hidend")
 
-Hidend is a simple multitool for finding website backend ips hiding behind a ddos protection like cloudflare for example or even websites hiding behind tor. Hidend can be used to peform ip history checks, subdomain scans, http response checks, favicon hash matching with shodan and censys SSL certificate matching.
+Hidend is a simple multitool for finding website backend ips hiding behind a ddos protection like cloudflare for example or even websites hiding behind tor. Hidend can be used to perform ip history checks, subdomain scans, http response checks, favicon hash matching with shodan and censys SSL certificate matching.
 
 # Install
 
